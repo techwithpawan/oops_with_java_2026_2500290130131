@@ -1,6 +1,6 @@
 class Addition{
     void sum(){
-        System.out.print("Addition");
+        System.out.print("");
     }
 
     void sum(int a, int b){
